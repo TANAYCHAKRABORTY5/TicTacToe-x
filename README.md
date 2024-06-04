@@ -8,4 +8,4 @@ Real-Time Updates: The game board updates in real time as players make their mov
 Winner Detection: Automatically detects when a player has won or if the game is a draw.
 Reset Game: Option to reset the game board and start a new game.
 
-link -https://tanaychakraborty5.github.io/Tic-Tac-Toe-game/
+link -https://tanaychakraborty5.github.io/TicTacToe-x/
