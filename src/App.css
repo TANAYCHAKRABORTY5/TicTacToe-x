@@ -1,3 +1,16 @@
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* Transparent */
+  -webkit-tap-highlight-color: transparent; /* For newer versions of WebKit */
+  -moz-tap-highlight-color: rgba(0, 0, 0, 0); /* Transparent for Firefox */
+  -ms-tap-highlight-color: rgba(0, 0, 0, 0); /* Transparent for IE */
+  tap-highlight-color: rgba(
+    0,
+    0,
+    0,
+    0
+  ); /* Transparent for browsers that support this property */
+}
+
 body {
   display: flex;
   flex-direction: column;
